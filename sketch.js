@@ -141,7 +141,7 @@ function preload()
 
   //powerups
   energyImg = loadImage("assets/powerups/energydrink.png");
-  medicalKitImg = loadImage("assets/powerups/medicalKit.png");
+  medicalKitImg = loadImage("assets/powerups/medicalkit.png");
   coinImg = loadImage("assets/powerups/coin.png");
 
   shopOpenButtonImg = loadImage("assets/shopButton.png");
